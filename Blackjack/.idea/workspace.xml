@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6229585b-30f8-4c3c-84a0-0351bb1ceba1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Library/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Library/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UniqueSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniqueSum/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
