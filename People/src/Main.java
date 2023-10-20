@@ -13,11 +13,7 @@ public class Main {
 
         laszlo.getInfo();
         //Test printing Christian's info
-//        System.out.println(christian.getAge());
-//        System.out.println(christian.getBirthDay());
-//        System.out.println(christian.getFirstName());
-//        System.out.println(christian.getLastName());
-//        System.out.println(christian.getInfo());
+//        christian.getInfo();
 //        System.out.println(Person.returnPopulation());
 //
 //        christian.changeFirstName("Geralt");
