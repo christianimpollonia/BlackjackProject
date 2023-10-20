@@ -1,3 +1,6 @@
+CREATE SCHEMA library
+DEFAULT CHARACTER SET utf8mb4;
+
 CREATE TABLE library.LibraryMember (
 	Id INT NOT NULL AUTO_INCREMENT,
     First_name VARCHAR(100) NOT NULL,
